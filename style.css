@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Noto+Serif+Hebrew:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+body{
+	background-color: #9400D9;
+}
+.main-part{
+	background-color: black;
+	text-align: center;
+	height: 100px;
+	margin: 0 auto;
+}
+.main-part a{
+	margin: 0 30px;
+	line-height: 10vh;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-family: 'Rubik Wet Paint', cursive;
+	text-decoration: none;
+}
+.img{
+	border-radius: 50px;
+	box-shadow: 0 10px 100px;
+	width: 100%;
+	
+}
+.codgame{
+	display: inline-block;
+	width: 400px;
+	height: 600px;
+	border-radius: 25px;
+	margin-bottom: 10px;
+
+}
+.picture-part{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.codgame a{
+	color: white;
+	background-color: #FFAD43;
+	border-radius: 10px;
+	padding: 20px 20px 20px 20px;
+	display: inline-block;
+	margin-top: 500px;
+	border: 2px	 white solid;
+	transition: 0.7s;
+
+}
+.item1{
+	background: url("274px-NFS-ProStreet-Front.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.item2{
+	background: url("wallpapersden.com_call-of-duty-warzone-poster-4k_360x480.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.item3{
+	background: url("world-of-tanks-wot-mir-tankov-6698.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.item4{
+	background: url("Тачки.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.item5{
+	background: url("wallpapersden.com_tom-clancys-rainbow-six-siege-ubisoft-montreal_360x480.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.item6{
+	background: url(GTA5RP.jpg) center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.aschki{
+	transition: 0.6s;
+}
+.skoro{
+	background: url("c.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.4);
+}
+.skoro1{
+	background: url("gta-gta-gta5-gta5-bollywood.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.6);
+}
+.text-skoro{
+	color: white;
+	transition: 0.5s;
+	font-size: 40px;
+}
+.skoro2{
+	background: url("beamng.jpg") center/cover no-repeat;
+	opacity: 0.5;
+	transition: 0.5s;
+	filter: brightness(0.6);
+}
+.skoro2:hover{
+	opacity: 1;
+	filter: none;
+}
+.skoro1:hover{
+	opacity: 1;
+	filter: none;
+}
+.skoro:hover{
+	opacity: 1;
+	filter: none;
+}
+.text-skoro:hover{
+	font-size: 50px;
+	color: orange;
+	font-family: 'Lobster', cursive;
+}
+.knopka:hover{
+	background-color: #8A0886;
+	font-family: 'Alkatra', cursive;
+	font-size: 30px;
+}
+.item1:hover{
+	opacity: 1;
+	filter: none;
+}
+.item2:hover{
+	opacity: 1;
+	filter: none;
+}
+.item3:hover{
+	opacity: 1;
+	filter: none;
+}
+.item4:hover{
+	opacity: 1;
+	filter: none;
+}
+.item5:hover{
+	opacity: 1;
+	filter: none;
+}
+.item6:hover{
+	opacity: 1;
+	filter: none;
+}
+.aschki:hover{
+	font-family: 'Pattaya', sans-serif;
+	font-size: 35px;
+	color: #BDBDBD;
+}
